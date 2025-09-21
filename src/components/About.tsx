@@ -31,11 +31,11 @@ const About: React.FC = () => {
               </p>
               
               <p className="text-lg">
-              With a Master’s in Business Analytics from UIC and hands-on experience at CCC Intelligent Solutions, UIC, and D’Souza Data Labs, I’ve built high-performance APIs, event-driven pipelines, and backend microservices that improved system throughput, reliability, and developer efficiency.
+              With a Master’s in Business Analytics from UIC and hands-on experience at CCC Intelligent Solutions, UIC and D’Souza Data Labs, I’ve built high-performance APIs, event-driven pipelines, and backend microservices that improved system throughput, reliability, and developer efficiency.
               </p>
 
               <p className="text-lg">
-              I also integrate AI/ML where it drives impact likeoptimizing GPU pipelines, fine-tuning models, and building intelligent data workflows, always with a focus on production readiness and scalability. I’m passionate about software engineering that blends performance, maintainability, and innovation across the stack.
+              I also integrate AI/ML where it drives impact like optimizing GPU pipelines, fine-tuning models, and building intelligent data workflows, always with a focus on production readiness and scalability. I’m passionate about software engineering that blends performance, maintainability, and innovation across the stack.
               </p>
               
               <p className="text-lg">
