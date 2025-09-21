@@ -99,8 +99,3 @@ This builds the app for production to the `build` folder.
 
 This project is open source and available under the [MIT License](LICENSE).
 
-## 📞 Contact
-
-Raj Shah - [shahraj2100@gmail.com](mailto:shahraj2100@gmail.com)
-
-Project Link: [https://github.com/your-username/portfolio-website](https://github.com/your-username/portfolio-website)
